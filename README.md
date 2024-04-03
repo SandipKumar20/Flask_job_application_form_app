@@ -1,0 +1,1 @@
+# A flask app for creating a job application form. The data is stored in a sqlite database. The app sends an email to the applicant once he submits the data.
